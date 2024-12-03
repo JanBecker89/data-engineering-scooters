@@ -6,8 +6,10 @@
 CREATE DATABASE gans_local;
 
 
+
 -- Use the database
 USE gans_local;
+
 
 
 CREATE TABLE cities (
